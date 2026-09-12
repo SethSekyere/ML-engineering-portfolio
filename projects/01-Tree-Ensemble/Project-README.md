@@ -44,7 +44,7 @@ The project demonstrates the progression from a single decision tree to ensemble
 
 ```text
 01-CardioRisk-Tree-Ensembles/
-├── README.md
+├── Project-README.md
 ├── CardioRisk-Tree-Ensembles.ipynb
 └── deeplearning.mplstyle
 ```
