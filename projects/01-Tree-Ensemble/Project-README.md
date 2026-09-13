@@ -33,8 +33,8 @@ The project explores how different tree-based algorithms perform as model comple
 ## Dataset
 
 The project uses the **Heart Failure Prediction Dataset** with demographic, clinical, and exercise-related features. Categorical features are one-hot encoded before model training.
-
-**If you decide to run this project in your own environment, kindly download the dataset and save it in the same location in your project folder as "heart.csv"** So that the file path loads effectively
+-------------------------------------------------------------------------------------------------
+**If you decide to run this project in your own environment, kindly download the dataset and save it in the same location in your project folder as "heart.csv"**  To ensure that the file path to the data loads effectively
 
 ## Key Takeaway
 
