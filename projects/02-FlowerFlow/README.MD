@@ -263,9 +263,7 @@ This project explores several practical machine learning engineering principles:
 - Monitoring provides evidence about pipeline behavior and performance.
 - Reproducible setup instructions make machine learning projects easier to review and maintain.
 
-## 👤 Author
 
-**Seth Sekyere**
 
 Machine Learning Engineering | PyTorch | Computer Vision | Model Deployment
 
