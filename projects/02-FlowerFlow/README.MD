@@ -135,13 +135,8 @@ ML-engineering-portfolio/
         ├── README.md
         ├── requirements.txt
         ├── notebooks/
-        │   └── C1_M3_Lab_data_management.ipynb
-        ├── helper_utils.py
-        └── corrupted_flower_data/
-            ├── jpg/
-            │   ├── image_00001.jpg
-            │   └── ...
-            └── imagelabels.mat
+        │   └── FlowerFlow.ipynb
+        └── helper_utils.py
 ```
 
 **Note:** The dataset directory is shown for illustration. The complete image archive may need to be downloaded separately rather than committed to Git.
@@ -198,7 +193,7 @@ jupyter notebook
 
 Open:
 
-`projects/02-FlowerFlow/notebooks/C1_M3_Lab_data_management.ipynb`
+`projects/02-FlowerFlow/notebooks/FlowerFlow.ipynb`
 
 Alternatively, open the notebook in Google Colab and follow the setup instructions provided in the notebook.
 
