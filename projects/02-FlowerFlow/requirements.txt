@@ -1,0 +1,11 @@
+
+numpy
+matplotlib
+scipy
+requests
+Pillow
+torch
+torchvision
+tqdm
+directory-tree
+fastai
